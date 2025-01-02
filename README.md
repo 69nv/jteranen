@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jteranen
+- 👋 Hi, I’m Verde
 - 👀 I’m interested in Python and Lua
 - 🌱 I’m currently learning to build an AI
 - 💞️ I’m looking to collaborate on optimizing AIs
